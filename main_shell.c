@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "mainshell.h"
 = NULL;
 ~	char *line = NULL;
 	char *shell_name = NULL;
